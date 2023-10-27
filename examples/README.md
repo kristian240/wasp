@@ -1,10 +1,7 @@
 Example Wasp apps
 =================
 
-These are officially maintained example Wasp apps!
-
-Take a look at them to get a good idea on what real Wasp apps look like.
-
+These are officially maintained example Wasp apps!  
 Most of them are relatively small and demonstrate a couple of interesting Wasp features.
 
 **tutorials** dir contains [Wasp tutorial](https://wasp-lang.dev/docs/tutorial/create) apps.
